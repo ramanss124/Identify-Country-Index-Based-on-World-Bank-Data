@@ -1,2 +1,3 @@
 # Identify-Country-Index-Based-on-World-Bank-Data
 Country’s worth depends on the factors which define the country index are too many. One has to identify important factors that contribute towards worth of a country. World Bank has provided data for all these factors over 60 years, for 264 countries. Through, an attempt is made to identify important indicators which contribute towards worth of a country. Analytical hierarch process (AHP) is used to classify these factors into various groups. A hierarchy is derived for all these factors and weight age of each factor is identified using Saaty’s procedure. 
+## ihbiub
